@@ -9,6 +9,8 @@ Feedstock license: BSD 3-Clause
 
 Summary: A Python module for creating Excel XLSX files
 
+XlsxWriter is a Python module that can be used to write text, numbers, formulas
+and hyperlinks to multiple worksheets in an Excel 2007+ XLSX file.
 
 
 Current build status
