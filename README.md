@@ -16,12 +16,15 @@ and hyperlinks to multiple worksheets in an Excel 2007+ XLSX file.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/xlsxwriter-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/xlsxwriter-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/xlsxwriter-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/xlsxwriter-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/xlsxwriter/badges/version.svg)](https://anaconda.org/conda-forge/xlsxwriter)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/xlsxwriter/badges/downloads.svg)](https://anaconda.org/conda-forge/xlsxwriter)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-xlsxwriter-green.svg)](https://anaconda.org/conda-forge/xlsxwriter) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/xlsxwriter.svg)](https://anaconda.org/conda-forge/xlsxwriter) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/xlsxwriter.svg)](https://anaconda.org/conda-forge/xlsxwriter) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/xlsxwriter.svg)](https://anaconda.org/conda-forge/xlsxwriter) |
 
 Installing xlsxwriter
 =====================
