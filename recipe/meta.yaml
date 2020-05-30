@@ -1,6 +1,6 @@
 {% set name = "XlsxWriter" %}
-{% set version = "1.2.8" %}
-{% set sha256 = "488e1988ab16ff3a9cd58c7656d0a58f8abe46ee58b98eecea78c022db28656b" %}
+{% set version = "1.2.9" %}
+{% set sha256 = "828b3285fc95105f5b1946a6a015b31cf388bd5378fdc6604e4d1b7839df2e77" %}
 
 package:
   name: {{ name|lower }}
@@ -29,10 +29,10 @@ test:
 
 about:
   home: https://xlsxwriter.readthedocs.io/
-  license: BSD 2-Clause
+  license: BSD-2-Clause
   license_family: BSD
   license_file: LICENSE.txt
-  summary: 'A Python module for creating Excel XLSX files'
+  summary: A Python module for creating Excel XLSX files
   description: |
     XlsxWriter is a Python module that can be used to write text, numbers, formulas
     and hyperlinks to multiple worksheets in an Excel 2007+ XLSX file.
