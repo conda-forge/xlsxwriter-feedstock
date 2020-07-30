@@ -3,9 +3,9 @@ About xlsxwriter
 
 Home: https://xlsxwriter.readthedocs.io/
 
-Package license: BSD 2-Clause
+Package license: BSD-2-Clause
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: A Python module for creating Excel XLSX files
 
