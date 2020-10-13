@@ -5,9 +5,13 @@ Home: https://xlsxwriter.readthedocs.io/
 
 Package license: BSD-2-Clause
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/xlsxwriter-feedstock/blob/master/LICENSE.txt)
 
 Summary: A Python module for creating Excel XLSX files
+
+Development: https://github.com/jmcnamara/XlsxWriter
+
+Documentation: https://xlsxwriter.readthedocs.org/
 
 XlsxWriter is a Python module that can be used to write text, numbers, formulas
 and hyperlinks to multiple worksheets in an Excel 2007+ XLSX file.
