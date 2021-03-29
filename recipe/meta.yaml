@@ -1,6 +1,6 @@
 {% set name = "XlsxWriter" %}
-{% set version = "1.3.7" %}
-{% set sha256 = "9b1ade2d1ba5d9b40a6d1de1d55ded4394ab8002718092ae80a08532c2add2e6" %}
+{% set version = "1.3.8" %}
+{% set sha256 = "2b7e22b1268c2ed85d73e5629097c9a63357f2429667ada9863cd05ff8ee33aa" %}
 
 package:
   name: {{ name|lower }}
@@ -17,7 +17,7 @@ build:
   script: {{ PYTHON }} -m pip install . --no-deps -vv
 
 requirements:
-  build:
+  host:
     - python
     - pip
   run:
