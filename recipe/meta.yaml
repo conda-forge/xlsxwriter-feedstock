@@ -1,6 +1,6 @@
 {% set name = "XlsxWriter" %}
-{% set version = "3.0.3" %}
-{% set sha256 = "e89f4a1d2fa2c9ea15cde77de95cd3fd8b0345d0efb3964623f395c8c4988b7f" %}
+{% set version = "3.0.4" %}
+{% set sha256 = "dbad08b7a4e6f28b1d252966b54452baa01e143088463d5c19349fad28befde7" %}
 
 package:
   name: {{ name|lower }}
@@ -18,10 +18,10 @@ build:
 
 requirements:
   host:
-    - python >=3.4
+    - python >=3.6
     - pip
   run:
-    - python >=3.4
+    - python >=3.6
 
 test:
   imports:
