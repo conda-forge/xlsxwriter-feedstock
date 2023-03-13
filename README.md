@@ -1,11 +1,11 @@
-About xlsxwriter
-================
+About xlsxwriter-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/xlsxwriter-feedstock/blob/main/LICENSE.txt)
 
 Home: https://xlsxwriter.readthedocs.io/
 
 Package license: BSD-2-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/xlsxwriter-feedstock/blob/main/LICENSE.txt)
 
 Summary: A Python module for creating Excel XLSX files
 
