@@ -1,6 +1,6 @@
 {% set name = "XlsxWriter" %}
-{% set version = "3.2.5" %}
-{% set sha256 = "7e88469d607cdc920151c0ab3ce9cf1a83992d4b7bc730c5ffdd1a12115a7dbe" %}
+{% set version = "3.2.6" %}
+{% set sha256 = "0686a0293a38ef949136b908d1a3048a40f438be58aabf701c0724e0b41de75e" %}
 
 package:
   name: {{ name|lower }}
